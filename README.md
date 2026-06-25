@@ -216,6 +216,9 @@ https://github.com/saicharithaamarneni/Internship-Domain-Recommendation
 
 https://www.linkedin.com/in/saicharitha-amarneni-bb3085354/
 
+## Live Demo
+
+https://internship-domain-recommendation-dqmuvds5uttdfderhnkztq.streamlit.app/
 ---
 
 ## 👩‍💻 Author
