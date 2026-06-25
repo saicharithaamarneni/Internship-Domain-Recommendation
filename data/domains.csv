@@ -1,0 +1,9 @@
+domain,skills,description,roadmap
+AI & Machine Learning,"python,machine learning,deep learning,ai,data science","Build intelligent systems using AI and ML","Python -> NumPy -> Pandas -> Machine Learning -> Deep Learning -> NLP"
+Data Science,"python,pandas,numpy,statistics,data analysis","Analyze and derive insights from data","Python -> Statistics -> Pandas -> Data Visualization -> Machine Learning"
+Web Development,"html,css,javascript,react,nodejs","Build websites and web applications","HTML -> CSS -> JavaScript -> React -> Backend"
+Cyber Security,"networking,linux,security,ethical hacking","Protect systems and networks","Networking -> Linux -> Security Fundamentals -> Ethical Hacking"
+Cloud Computing,"aws,azure,docker,kubernetes","Deploy and manage cloud applications","Cloud Basics -> AWS/Azure -> Docker -> Kubernetes"
+Data Analytics,"excel,power bi,sql,data visualization","Transform data into business insights","Excel -> SQL -> Power BI -> Analytics"
+Android Development,"java,kotlin,android","Develop mobile applications","Java/Kotlin -> Android Studio -> APIs"
+UI/UX Design,"figma,design,wireframing,prototype","Design user-friendly interfaces","Figma -> Wireframing -> Prototyping -> UX Research"
